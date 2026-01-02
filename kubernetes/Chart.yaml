@@ -1,0 +1,13 @@
+apiVersion: v2
+name: apex-trading
+description: Apex Professional Trading Platform Helm Chart
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - trading
+  - fintech
+  - platform
+maintainers:
+  - name: Apex Team
+    email: dev@apextrading.io
